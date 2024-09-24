@@ -22,3 +22,7 @@ index.js:2120 Uncaught RangeError: Maximum call stack size exceeded
 ```
 
 <img width="523" alt="image" src="https://github.com/user-attachments/assets/5140b985-e987-4c5d-860a-e59867881cb0">
+
+
+
+Opened an issue over at Bun: https://github.com/oven-sh/bun/issues/14110
